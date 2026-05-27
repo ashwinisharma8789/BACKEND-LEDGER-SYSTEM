@@ -1,4 +1,4 @@
-# Backend Ledger Banking System
+# Banking Ledger Management System
 
 A real-world banking backend system built using Node.js and Express.js following a production-style backend architecture. The project simulates core banking operations including authentication, account management, transactions, and ledger handling.
 
